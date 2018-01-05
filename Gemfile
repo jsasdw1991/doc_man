@@ -31,6 +31,7 @@ gem 'seed-fu' # 强大的 seed
 gem 'libreconv' # convert doc to pdf
 gem 'normalize-rails'
 gem 'chronic'
+gem 'jquery-rails'
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'pry-rails'
